@@ -2,7 +2,7 @@
 
 Wählt jetzt zwischen „Schnell" für Alltagsaufgaben und „Präzise" für komplexe Anfragen direkt in der Toolbar.
 
-## ![Toggle icon](/assets/icons/toggle-on.svg) Verwaltungswissen steuerbar
+## ![Toggle icon](https://github.com/technologiestiftung/baergpt-release-update/blob/main/assets/icons/toggle-on.svg) Verwaltungswissen steuerbar
 
 Verwaltungswissensdokumente können jetzt direkt im Chat an- und ausgeschaltet werden.
 
@@ -16,4 +16,5 @@ Barrierefreiheit
 
 Höhere Kontraste und Screenreader-Unterstützung für alle Nutzer:innen.
 
+---
 Release 1.2.0 · Februar 2026
