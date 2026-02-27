@@ -2,7 +2,7 @@
 
 Wählt jetzt zwischen „Schnell" für Alltagsaufgaben und „Präzise" für komplexe Anfragen direkt in der Toolbar.
 
-## ![Toggle icon](https://github.com/technologiestiftung/baergpt-release-update/blob/main/assets/icons/toggle-on.svg) Verwaltungswissen steuerbar
+## ![Toggle icon](https://raw.githubusercontent.com/technologiestiftung/baergpt-release-update/main/assets/icons/toggle-on.svg) Verwaltungswissen steuerbar
 
 Verwaltungswissensdokumente können jetzt direkt im Chat an- und ausgeschaltet werden.
 
