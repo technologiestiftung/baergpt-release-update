@@ -1,20 +1,20 @@
+# Was ist neu bei BärGPT?
+
 ## ✨ Mistral Large
+Wählt jetzt zwischen „Schnell" für Alltagsaufgaben und „Präzise" für komplexe Anfragen direkt im Chat.
 
-Wählt jetzt zwischen „Schnell" für Alltagsaufgaben und „Präzise" für komplexe Anfragen direkt in der Toolbar.
+## 🔀 Verwaltungswissen steuerbar
+Verwaltungswissensdokumente können jetzt direkt im Chat an- und ausgeschaltet werden. Eine Übersicht der Dokumente sind im Profil hinterlegt.
 
-## ![Toggle icon](https://raw.githubusercontent.com/technologiestiftung/baergpt-release-update/main/assets/icons/toggle-on.svg) Verwaltungswissen steuerbar
+## 🛠️ Neue Chat-Toolbar
+Modellauswahl, Wissensquellen-Anzeige direkt im Eingabefeld.
 
-Verwaltungswissensdokumente können jetzt direkt im Chat an- und ausgeschaltet werden.
+## 📎 Dateien überarbeitet
+Neues Upload-Interface und überarbeitete Dateisektion. Dateien lassen sich jetzt einfacher zum Chat hinzufügen und verwalten.
 
-## Neue Chat-Toolbar
-
-Modellauswahl, Wissensquellen-Anzeige und verbesserte Kopierfunktion – direkt im Eingabefeld.
-Sicherheit & Stabilität
-
-OTP-Verifizierung, strengere Speicherrichtlinien und diverse Security-Verbesserungen.
-Barrierefreiheit
-
-Höhere Kontraste und Screenreader-Unterstützung für alle Nutzer:innen.
+## 🔒 Sicherheit & Barrierefreiheit
+Höhere Kontraste, Screenreader-Unterstützung und automatisierte Backups für mehr Sicherheit und Stabilität.
 
 ---
-Release 1.2.0 · Februar 2026
+
+Release 1.4.0 · März 2026
