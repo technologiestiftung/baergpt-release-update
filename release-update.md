@@ -1,5 +1,3 @@
-# Was ist neu bei BärGPT?
-
 ✨ Mistral Large
 Wählt jetzt zwischen „Schnell" für Alltagsaufgaben und „Präzise" für komplexe Anfragen direkt im Chat.
 
