@@ -7,7 +7,7 @@ Verwaltungswissensdokumente können jetzt direkt im Chat aktiviert und deaktivie
 ## 🛠️ Neue Chat-Toolbar
 Modellauswahl und Wissensquellen jetzt direkt im Eingabefeld verfügbar.
 
-## 📎 Dateien überarbeitet
+## 📎 Dateiansicht überarbeitet
 Neues Upload-Interface und neu gestaltete Dateiansicht. Dateien lassen sich jetzt einfacher zum Chat hinzufügen und verwalten.
 
 ## 🔒 Sicherheit & Barrierefreiheit
