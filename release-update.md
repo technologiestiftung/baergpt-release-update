@@ -1,4 +1,4 @@
-## ✨ Verzögerte Antwortzeiten beim Modell „Präzise"
+## ⚠️ Verzögerte Antwortzeiten beim Modell „Präzise"
 Die Antwortzeiten des Large-Modell sind aktuell langsamer als üblich. Bitte entschuldigen Sie die Unannehmlichkeiten. Wir beheben das Problem so schnell wie möglich.
 
 ## 🔀 Verwaltungswissen steuerbar
