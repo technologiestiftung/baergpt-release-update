@@ -1,14 +1,14 @@
 ## ⚠️ Verzögerte Antwortzeiten beim Modell „Präzise"
-Die Antwortzeiten des Large-Modell sind aktuell langsamer als üblich. Bitte entschuldigen Sie die Unannehmlichkeiten. Wir beheben das Problem so schnell wie möglich.
+Die Antwortzeiten des Modell „Präzise sind aktuell langsamer als üblich. Bitte entschuldigen Sie die Unannehmlichkeiten. Wir beheben das Problem so schnell wie möglich.
 
 ## 🔀 Verwaltungswissen steuerbar
-Verwaltungswissensdokumente können jetzt direkt im Chat an- und ausgeschaltet werden. Eine Übersicht der Dokumente sind im Profil hinterlegt.
+Verwaltungswissensdokumente können jetzt direkt im Chat aktiviert und deaktiviert werden. Eine Übersicht der Dokumente ist im Profil hinterlegt.
 
 ## 🛠️ Neue Chat-Toolbar
-Modellauswahl, Wissensquellen-Anzeige direkt im Eingabefeld.
+Modellauswahl und Wissensquellen jetzt direkt im Eingabefeld verfügbar.
 
 ## 📎 Dateien überarbeitet
-Neues Upload-Interface und überarbeitete Dateisektion. Dateien lassen sich jetzt einfacher zum Chat hinzufügen und verwalten.
+Neues Upload-Interface und neu gestaltete Dateiansicht. Dateien lassen sich jetzt einfacher zum Chat hinzufügen und verwalten.
 
 ## 🔒 Sicherheit & Barrierefreiheit
 Höhere Kontraste, Screenreader-Unterstützung und automatisierte Backups für mehr Sicherheit und Stabilität.
