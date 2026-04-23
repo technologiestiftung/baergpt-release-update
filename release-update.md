@@ -1,5 +1,5 @@
-## ✨ Mistral Large
-Wählt jetzt zwischen „Schnell" für Alltagsaufgaben und „Präzise" für komplexe Anfragen direkt im Chat.
+## ✨ Verzögerte Antwortzeiten beim Modell „Präzise"
+Die Antwortzeiten des Large-Modell sind aktuell langsamer als üblich. Bitte entschuldigen Sie die Unannehmlichkeiten. Wir beheben das Problem so schnell wie möglich.
 
 ## 🔀 Verwaltungswissen steuerbar
 Verwaltungswissensdokumente können jetzt direkt im Chat an- und ausgeschaltet werden. Eine Übersicht der Dokumente sind im Profil hinterlegt.
@@ -15,4 +15,4 @@ Höhere Kontraste, Screenreader-Unterstützung und automatisierte Backups für m
 
 ---
 
-Release 1.4.0 · März 2026
+Release 1.6.2 · April 2026
