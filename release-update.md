@@ -1,5 +1,5 @@
 ## ⚠️ Verzögerte Antwortzeiten beim Modell „Präzise“
-Die Antwortzeiten des Modell „Präzise“ sind aktuell langsamer als üblich. Bitte entschuldigen Sie die Unannehmlichkeiten. Wir beheben das Problem so schnell wie möglich.
+Die Antwortzeiten des Modells „Präzise“ sind aktuell langsamer als üblich. Bitte entschuldigen Sie die Unannehmlichkeiten. Wir beheben das Problem so schnell wie möglich.
 
 ## 🔀 Verwaltungswissen steuerbar
 Verwaltungswissensdokumente können jetzt direkt im Chat aktiviert und deaktiviert werden. Eine Übersicht der Dokumente ist im Profil hinterlegt.
