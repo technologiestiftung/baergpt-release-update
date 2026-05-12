@@ -1,15 +1,9 @@
-## 🔀 Verwaltungswissen steuerbar
-Verwaltungswissensdokumente können jetzt direkt im Chat aktiviert und deaktiviert werden. Eine Übersicht der Dokumente ist im Profil hinterlegt.
+## 🛠️ Fehlerbehebungen
+Leere Nachrichten werden nicht mehr versehentlich weitergeleitet. Doppeltes Absenden ist nun zuverlässig verhindert.
 
-## 🛠️ Neue Chat-Toolbar
-Jetzt zwischen einem schnellen oder präzisen Modell auswählen. 
-
-## 📎 Dateiansicht überarbeitet
-Neues Upload-Interface und neu gestaltete Dateiansicht. Dateien lassen sich jetzt einfacher zum Chat hinzufügen und verwalten.
-
-## 🔒 Sicherheit & Barrierefreiheit
-Höhere Kontraste, Screenreader-Unterstützung und automatisierte Backups für mehr Sicherheit und Stabilität.
+## 🧹 Stabilisierung & Performance
+Unnötige Hintergrundprozesse wurden entfernt. Die App läuft dadurch sauberer, leiser und effizienter..
 
 ---
 
-Release 1.6.2 · April 2026
+Release 1.6.3 · Mai 2026
