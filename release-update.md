@@ -1,9 +1,10 @@
-## 🛠️ Fehlerbehebungen
-Leere Nachrichten werden nicht mehr versehentlich weitergeleitet. Doppeltes Absenden ist nun zuverlässig verhindert.
+## Neue Modelle verfügbar
+Mistral Small 4 (Schnell) und Medium 3.5 (Präzise) für leistungsfähigere und präzisere Antworten.
 
-## 🧹 Stabilisierung & Performance
-Unnötige Hintergrundprozesse wurden entfernt. Die App läuft dadurch sauberer, leiser und effizienter.
+## 📚 Verwaltungswissen
+Die neue Sektion Verwaltungswissen im Dateibereich bündelt relevante verwaltungsbezogene Informationen an einem zentralen Ort und erleichtert so den schnellen Zugriff.
 
----
+## 🔒 Personenbezogene Daten 
+Personenbezogene Daten dürfen nun gemäß dem Rundschreiben der Senatskanzlei verarbeitet werden. Die Nutzung erfolgt im Rahmen der geltenden Datenschutzvorgaben.
 
-Release 1.6.3 · Mai 2026
+Release 1.6.5 · Juni 2026
