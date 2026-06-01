@@ -1,4 +1,4 @@
-## Neue Modelle verfügbar
+## ✨ Neue Modelle verfügbar
 Mistral Small 4 (Schnell) und Medium 3.5 (Präzise) für leistungsfähigere und präzisere Antworten.
 
 ## 📚 Verwaltungswissen
