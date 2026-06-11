@@ -7,4 +7,7 @@ Mistral Small 4 (Schnell) und Mistral Medium 3.5 (Präzise) nun verfügbar für 
 ## 📚 Verwaltungswissen
 Die neue Sektion Verwaltungswissen im Dateibereich bündelt relevante verwaltungsbezogene Informationen an einem zentralen Ort und erleichtert so den schnellen Zugriff. Dokumente im Verwaltungswissen werden regelmäßig aktualisiert.
 
-Release 1.6.5 · Juni 2026
+## 🔤 Exportschriftart Berlin Type Office 
+Die Schriftart exportierter Dokumente wurde auf Berlin Type Office umgestellt. Auch PDF-Exporte erfolgen nun in dieser Schriftart.
+
+Release 1.6.6 · Juni 2026
