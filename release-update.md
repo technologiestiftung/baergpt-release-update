@@ -10,4 +10,4 @@ Die neue Sektion Verwaltungswissen im Dateibereich bündelt relevante verwaltung
 ## 🔤 Exportschriftart Berlin Type Office 
 Die Schriftart exportierter Dokumente wurde auf Berlin Type Office umgestellt. Auch PDF-Exporte erfolgen nun in dieser Schriftart.
 
-Release 1.6.6 · Juni 2026
+Release 1.7 · Juni 2026
