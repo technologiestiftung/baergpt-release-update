@@ -1,5 +1,5 @@
 ## 👤 Persönlicher Prompt
-Hinterlege einen persönlichen Prompt, um Antworten dauerhaft an deine Arbeitsweise und deinen Aufgabenbereich anzupassen. Gehe dazu in dein Profil oben rechts und ändere ihn dann bei den Chateinstellungen. 
+Öffne oben rechts dein Profil, gehe zu den Chateinstellungen und hinterlege deinen persönlichen Prompt. Damit passt du BärGPT dauerhaft an deine Arbeitsweise und deinen Aufgabenbereich an. 
 
 ![Persönlichen Prompt in den Chateinstellungen anpassen](assets/bild.png)
 
