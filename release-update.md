@@ -1,13 +1,7 @@
-## 🔒 Personenbezogene Daten 
-Personenbezogene Daten dürfen nun gemäß dem Rundschreiben der Senatskanzlei verarbeitet werden. Die Nutzung erfolgt im Rahmen der geltenden Datenschutzvorgaben.
+## 👤 Persönlicher Prompt
+Der persönliche Prompt hinterlegt dauerhafte Vorgaben, die bei jeder Antwort berücksichtigt werden. Zum Einstellen das Profil oben rechts öffnen, zu den Chateinstellungen wechseln und dort den persönlichen Prompt hinterlegen. 
 
-## ✨ Neue Modelle verfügbar
-Mistral Small 4 (Schnell) und Mistral Medium 3.5 (Präzise) nun verfügbar für leistungsfähigere und präzisere Antworten. Der Wissenstand der Trainingsdaten ist nun der 1.11.2024. 
+Weitere Hinweise und Neuigkeiten sind im [BärGPT Lotsinnen-Portal](https://citylabberlin.notion.site/baergpt-lotsinnen-hub?pvs=74) zu finden.
 
-## 📚 Verwaltungswissen
-Die neue Sektion Verwaltungswissen im Dateibereich bündelt relevante verwaltungsbezogene Informationen an einem zentralen Ort und erleichtert so den schnellen Zugriff. Dokumente im Verwaltungswissen werden regelmäßig aktualisiert.
+[Release 1.9](https://github.com/technologiestiftung/baergpt/releases/tag/v1.9.0) · 8. Juli 2026
 
-## 🔤 Exportschriftart Berlin Type Office 
-Die Schriftart exportierter Dokumente wurde auf Berlin Type Office umgestellt. Auch PDF-Exporte erfolgen nun in dieser Schriftart.
-
-Release 1.7 · Juni 2026
