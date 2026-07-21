@@ -1,8 +1,8 @@
 ## ✨ Datei-Upload direkt im Chat
-Dateien lassen sich jetzt direkt im Chat hochladen.
+Dateien können jetzt direkt im Chat hochgeladen werden.
 
 ## 📁 Dateien & Ordner
-Eigene Ordner lassen sich jetzt umbenennen. Es ist möglich gleichzeitig mehrere Dateien auszuwählen und zu löschen.
+Eigene Ordner können nun umbenannt werden. Es ist auch möglich gleichzeitig mehrere Dateien auszuwählen und zu löschen.
 
 ## 📜 Verbesserungen
 Das Scrollverhalten im Chat wurde verbessert, der Chatverlauf und die Oberfläche wurden optisch überarbeitet.
