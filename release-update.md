@@ -1,6 +1,13 @@
-## 👤 Persönlicher Prompt
-Der persönliche Prompt hinterlegt dauerhafte Vorgaben, die bei jeder Antwort berücksichtigt werden. Zum Einstellen das Profil oben rechts öffnen, zu den Chateinstellungen wechseln und dort den persönlichen Prompt hinterlegen. 
+✨ Datei-Upload direkt im Chat
+Dateien lassen sich jetzt direkt im Chat hochladen. 
 
-Weitere Hinweise und Neuigkeiten sind im [BärGPT Lotsinnen-Portal](https://citylabberlin.notion.site/baergpt-lotsinnen-hub?pvs=74) zu finden.
+📁 Dateien & Ordner
+Eigene Ordner lassen sich jetzt umbenennen. Es ist möglich mehrere Dateien auszuwählen.
 
-[Release 1.9](https://github.com/technologiestiftung/baergpt/releases/tag/v1.9.0) · 8. Juli 2026
+Verbesserungen
+Das Scrollverhalten im Chat wurde verbessert, der Chatverlauf und die Oberfläche wurden optisch überarbeitet.
+
+🛠️ Fehlerbehebungen
+Das Eingabefeld im Chat wächst nicht mehr über die Bildschirmgrenze hinaus.
+
+[Release 1.10](https://github.com/technologiestiftung/baergpt/releases/tag/v1.10.0) · 21. Juli 2026
