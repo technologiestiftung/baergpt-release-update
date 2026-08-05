@@ -1,3 +1,6 @@
+## 🌐 Websuche
+BärGPT kann nach Aktivierung auf das Internet zugreifen. Die Websuche lässt sich direkt im Chateingabefeld ein- und ausschalten. Antworten aus dem Netz werden mit Quellenangaben versehen.
+
 ## 🔍 Chatsuche
 Frühere Chats lassen sich jetzt durchsuchen. Über den neuen Suchdialog finden sich vergangene Unterhaltungen schnell wieder.
 
