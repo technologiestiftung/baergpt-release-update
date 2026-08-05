@@ -1,13 +1,7 @@
-## ✨ Datei-Upload direkt im Chat
-Dateien können jetzt direkt im Chat hochgeladen werden.
+## 🔍 Chatsuche
+Frühere Chats lassen sich jetzt durchsuchen. Über den neuen Suchdialog finden sich vergangene Unterhaltungen schnell wieder.
 
-## 📁 Dateien & Ordner
-Eigene Ordner können nun umbenannt werden. Es ist auch möglich gleichzeitig mehrere Dateien auszuwählen und zu löschen.
+## 📎 Neue Dateiformate
+CSV-Dateien werden jetzt unterstützt. Die Unterstützung des veralteten .doc-Formats wurde im Gegenzug entfernt
 
-## 📜 Verbesserungen
-Das Scrollverhalten im Chat wurde verbessert, der Chatverlauf und die Oberfläche wurden optisch überarbeitet.
-
-## 🛠️ Fehlerbehebungen
-Das Eingabefeld im Chat wächst nicht mehr über die Bildschirmgrenze hinaus.
-
-[Release 1.10](https://github.com/technologiestiftung/baergpt/releases/tag/v1.10.0) · 21. Juli 2026
+[Release 1.11](https://github.com/technologiestiftung/baergpt/releases/tag/v1.11.0) · 05. August 2026
