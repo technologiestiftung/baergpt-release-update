@@ -1,4 +1,4 @@
-## 🌐 Websuche-Anbindung
+## 🌐 Websuche
 BärGPT kann nach Aktivierung auf das Internet zugreifen. Die Websuche lässt sich direkt im Chat-Eingabefeld ein- und ausschalten. Antworten aus dem Netz werden mit Quellenangaben versehen.
 
 ## 🔍 Chat-Suche
