@@ -1,6 +1,8 @@
 ## 🌐 Websuche
 BärGPT kann nach Aktivierung im Chatfenster auf das Internet und aktuelle Gesetzestexte und Informationen zugreifen. Die Websuche lässt sich direkt im Chateingabefeld ein- und ausschalten. Antworten aus dem Netz werden mit Quellenangaben versehen.
 
+Für die Suche nach Paragraphen, Gesetzen und Urteilen die Websuche nutzen!
+
 ## 🔍 Chatsuche
 Frühere Chats lassen sich jetzt durchsuchen. Über den neuen Suchdialog finden sich vergangene Unterhaltungen schnell wieder.
 
