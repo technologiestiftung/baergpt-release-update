@@ -4,4 +4,4 @@ Login und Registrierung laufen jetzt über einen Einmalcode per E-Mail. Adresse 
 ## 📄 Vorschau für Excel- und CSV-Dateien jetzt verfügbar 
 Excel- und CSV-Dateien lassen sich jetzt direkt ansehen. Tabellen erscheinen als schreibgeschütztes Raster. 
 
-[Release 1.11](https://github.com/technologiestiftung/baergpt/releases/tag/v1.12.0) · 02. September 2026
+[Release 1.13](https://github.com/technologiestiftung/baergpt/releases/tag/v1.13.0) · 02. September 2026
