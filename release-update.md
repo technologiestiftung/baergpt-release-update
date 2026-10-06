@@ -10,4 +10,4 @@ Das zuletzt gewählte Modell bleibt im Browser gespeichert und steht beim nächs
 ## 📜 Datenschutz und Nutzungsbedingungen aktualisiert
 Datenschutzerklärung und Nutzungsbedingungen liegen in aktualisierter Fassung vor mit angepassten Angaben zur passwortlosen Anmeldung.
 
-[Release 1.13](https://github.com/technologiestiftung/baergpt/releases/tag/v1.14.0) · 05. Oktober 2026
+[Release 1.14](https://github.com/technologiestiftung/baergpt/releases/tag/v1.14.0) · 05. Oktober 2026
