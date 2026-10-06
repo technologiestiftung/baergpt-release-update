@@ -1,7 +1,13 @@
-## 🔐 Anmeldung ohne Passwort
-Login und Registrierung laufen jetzt über einen Einmalcode per E-Mail. Adresse eingeben, Code aus dem Postfach bestätigen, fertig. Kommt der Code nicht an, lässt er sich erneut anfordern. BärGPT braucht keine Passwörter mehr und speichert auch keine. Gestohlene oder mehrfach genutzte Passwörter sind damit kein Risiko mehr.
+## 🎨 Neue Navigation und überarbeiteter Startbildschirm
+Die Seitenleiste wurde neu sortiert: Chatverlauf, Menüs und Symbole sind übersichtlicher angeordnet und auch im eingeklappten Zustand gut lesbar. Der Startbildschirm begrüßt mit einem aufgeräumten Einstieg. Zusätzlich verbessert: Bedienung per Tastatur und Screenreader.
 
-## 📄 Vorschau für Excel- und CSV-Dateien jetzt verfügbar 
-Excel- und CSV-Dateien lassen sich jetzt direkt ansehen. Tabellen erscheinen als schreibgeschütztes Raster. 
+## 📎 Uploads bis 20 MB
+Das Limit für hochgeladene Dateien steigt von bisher 10 auf 20 MB. Damit passen auch umfangreichere Berichte, Protokolle und Anlagen in einen Chat.
 
-[Release 1.13](https://github.com/technologiestiftung/baergpt/releases/tag/v1.13.0) · 02. September 2026
+## ⚙️ Modellauswahl wird gemerkt
+Das zuletzt gewählte Modell bleibt im Browser gespeichert und steht beim nächsten Besuch wieder bereit. Kein erneutes Umstellen bei jedem Chat.
+
+## 📜 Datenschutz und Nutzungsbedingungen aktualisiert
+Datenschutzerklärung und Nutzungsbedingungen liegen in aktualisierter Fassung vor mit angepassten Angaben zur passwortlosen Anmeldung.
+
+[Release 1.13](https://github.com/technologiestiftung/baergpt/releases/tag/v1.14.0) · 05. Oktober 2026
