@@ -10,7 +10,7 @@ Registrierung und Login laufen jetzt über einen gemeinsamen Ablauf mit überarb
 ## 📝 Markdown-Dateien hochladen
 Neben PDF, Word und Co. lassen sich jetzt auch Markdown-Dateien (.md) hochladen und im Chat verwenden.
 
-## 📖 Handbuch in Version 2.1
+## 📖 Aktualisiertes Handbuch (Version 2.1)
 Das Handbuch im Hilfecenter wurde überarbeitet und liegt in Version 2.1 vor. Es enthält aktualisierte Anleitungen zu allen Funktionen und Tipps für den Arbeitsalltag.
 
 ## 🔒 Mehr Sicherheit im Hintergrund
