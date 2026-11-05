@@ -1,13 +1,22 @@
-## 🎨 Neue Navigation und überarbeiteter Startbildschirm
-Die Seitenleiste wurde neu sortiert: Chatverlauf, Menüs und Symbole sind übersichtlicher angeordnet und auch im eingeklappten Zustand gut lesbar. Der Startbildschirm begrüßt mit einem aufgeräumten Einstieg. Zusätzlich verbessert: Bedienung per Tastatur und Screenreader.
+## 🧠 Neue Modelle: Mistral Large 4 und GLM 5.3
+BärGPT arbeitet ab sofort mit Mistral Large 4 und GLM 5.3. Die Antworten sind präziser und die Denkschritte des Modells lassen sich im Reasoning-Modus übersichtlich aufklappen und nachvollziehen.
 
-## 📎 Uploads bis 20 MB
-Das Limit für hochgeladene Dateien steigt von bisher 10 auf 20 MB. Damit passen auch umfangreichere Berichte, Protokolle und Anlagen in einen Chat.
+## 📊 Diagramme mit Datawrapper
+Mit dem eigenen Datawrapper-Zugang lassen sich Diagramme jetzt direkt im Chat erstellen und veröffentlichen. Den API-Key einmal in den Einstellungen hinterlegen, dann wird aus einer Tabelle mit wenigen Worten eine fertige Grafik.
 
-## ⚙️ Modellauswahl wird gemerkt
-Das zuletzt gewählte Modell bleibt im Browser gespeichert und steht beim nächsten Besuch wieder bereit. Kein erneutes Umstellen bei jedem Chat.
+## 🔑 Registrierung und Anmeldung in einem Schritt
+Registrierung und Login laufen jetzt über einen gemeinsamen Ablauf mit überarbeiteter Oberfläche. Eine E-Mail-Adresse eingeben, Code bestätigen, fertig. Egal, ob man zum ersten Mal da ist oder schon ein Konto hat.
 
-## 📜 Datenschutz und Nutzungsbedingungen aktualisiert
-Datenschutzerklärung und Nutzungsbedingungen liegen in aktualisierter Fassung vor mit angepassten Angaben zur passwortlosen Anmeldung.
+## 📝 Markdown-Dateien hochladen
+Neben PDF, Word und Co. lassen sich jetzt auch Markdown-Dateien (.md) hochladen und im Chat verwenden.
 
-[Release 1.14](https://github.com/technologiestiftung/baergpt/releases/tag/v1.14.0) · 05. Oktober 2026
+## 📖 Aktualisiertes Handbuch (Version 2.1)
+Das Handbuch im Hilfecenter wurde überarbeitet und liegt in Version 2.1 vor. Es enthält aktualisierte Anleitungen zu allen Funktionen und Tipps für den Arbeitsalltag.
+
+## 🔒 Mehr Sicherheit im Hintergrund
+Datenbank und Plattform laufen auf aktuellen Versionen. Mehrere Softwarekomponenten haben Sicherheitsupdates erhalten.
+
+## ✨ Stabilere Antworten
+Nachrichten werden während der Antwortgenerierung zuverlässiger angezeigt (auch bei langen Antworten).
+
+[Release 1.15](https://github.com/technologiestiftung/baergpt/releases/tag/v1.15.0) · 04. November 2026
