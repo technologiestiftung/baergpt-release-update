@@ -19,4 +19,4 @@ Mehrere Softwarekomponenten haben Sicherheitsupdates erhalten.
 ## ✨ Stabilere Antworten
 Nachrichten werden während der Antwortgenerierung zuverlässiger angezeigt (auch bei langen Antworten).
 
-[Release 1.15](https://github.com/technologiestiftung/baergpt/releases/tag/v1.15.0) · 04. November 2026
+[Release 1.15](https://github.com/technologiestiftung/baergpt/releases/tag/v1.15.0) · 05. November 2026
