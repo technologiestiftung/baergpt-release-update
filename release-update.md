@@ -1,9 +1,6 @@
 ## 🧠 Neue Modelle: Mistral Large 4 und GLM 5.3
 BärGPT arbeitet ab sofort mit Mistral Large 4 und GLM 5.3. Die Antworten sind präziser und die Denkschritte des Modells lassen sich im Reasoning-Modus übersichtlich aufklappen und nachvollziehen.
 
-## 📊 Diagramme mit Datawrapper
-Mit dem eigenen Datawrapper-Zugang lassen sich Diagramme jetzt direkt im Chat erstellen und veröffentlichen. Den API-Key einmal in den Einstellungen hinterlegen, dann wird aus einer Tabelle mit wenigen Worten eine fertige Grafik.
-
 ## 🔑 Registrierung und Anmeldung in einem Schritt
 Registrierung und Login laufen jetzt über einen gemeinsamen Ablauf mit überarbeiteter Oberfläche. Eine E-Mail-Adresse eingeben, Code bestätigen, fertig. Egal, ob man zum ersten Mal da ist oder schon ein Konto hat.
 
