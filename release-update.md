@@ -13,4 +13,4 @@ Mit den Pfeiltasten nach oben und unten lassen sich frühere Eingaben im Chatfel
 ## ✏️ Erklärung zur Barrierefreiheit
 BärGPT hat jetzt eine eigene Seite mit der Erklärung zur Barrierefreiheit.
 
-[Release 1.16](https://github.com/technologiestiftung/baergpt/releases/tag/v1.16.0) · 11. November 2026
+[Release 1.16](https://github.com/technologiestiftung/baergpt/releases/tag/v1.16.0) · 11. November 20267
